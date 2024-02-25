@@ -30,7 +30,7 @@
 </br>
 
 <!--Hit-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF609D&title_bg=%23636363&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/devuoon)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevuoon&count_bg=%235C5C5C&title_bg=%23FF0175&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 </div>
