@@ -28,7 +28,7 @@
 </br>
 </br>
 </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devuoon=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devuoon&show_icons=true&theme=radical)
 
 <!--Hit-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevuoon&count_bg=%235C5C5C&title_bg=%23FF0175&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
