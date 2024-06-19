@@ -59,8 +59,8 @@
 </br>
 
 ## 🏆GitHub Stat and Languages
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devuoon&show_icons=true&theme=ambient_gradient)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devuoon&theme=buefy&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devuoon&show_icons=true&theme=ambient_gradient" style="height: 195px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devuoon&theme=buefy&layout=compact" style="height: 195px;"/>
 
 </br>
 </br>
