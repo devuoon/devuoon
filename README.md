@@ -21,11 +21,13 @@
 </br>
 </br>
 
-## 🖥Portfolio
-<a href="https://lee-yoon-ji.vercel.app/">
-<!--   <img src="https://github.com/devuoon/devuoon/assets/104570636/c01528bc-6a1d-46ac-b004-fc32a68cb94a" width="500"> -->
-  https://lee-yoon-ji.vercel.app/
+## 🖥Portfolio / Blog
+📂 <a href="https://lee-yoon-ji.vercel.app/">
+  이윤지 포트폴리오
 </a>
+<br/>
+<br/>
+📒 <a href="https://devuoon.github.io/">기술 블로그</a>
 
 </br>
 </br>
