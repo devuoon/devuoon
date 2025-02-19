@@ -28,7 +28,7 @@
 </a>
 <br/>
 <br/>
-📒 <a href="https://devuoon.github.io/](https://yoon-dev.tistory.com/">기술 블로그</a>
+📒 <a href="https://yoon-dev.tistory.com/">기술 블로그</a>
 
 </br>
 </br>
